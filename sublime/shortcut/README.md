@@ -23,7 +23,7 @@ ctrl+shift+m
     选中引号内容
 </h3>
 ```
-1. 安装插件sublime-expand-selection-to-quotes
+1. 安装插件 Expand Selection to Quotes
 2. ctrl+’
 ```
 
