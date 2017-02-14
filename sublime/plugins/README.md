@@ -4,3 +4,4 @@
 3. [Eslint](./eslint/README.md)
 4. [SideBarEnhancements](./sideBar/README.md)
 5. [ExpandSelection](./expandSelection/README.md)
+6. [Anaconda](./anaconda/README.md)
